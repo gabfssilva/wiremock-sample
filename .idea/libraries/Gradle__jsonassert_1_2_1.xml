@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: jsonassert-1.2.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.skyscreamer/jsonassert/1.2.1/def60cc43a10979c25813d43a855cff2849ef8bd/jsonassert-1.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.skyscreamer/jsonassert/1.2.1/19f18e7a38901e9159801b3cc02fdfaa1ed5a9da/jsonassert-1.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
